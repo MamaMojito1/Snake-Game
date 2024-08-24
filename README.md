@@ -1,9 +1,9 @@
-#Snake Game made with raylib
+# Snake Game made with raylib
 
-#Library used
+# Library used
 <raylib.h>
 <raymath.h>
 <deque.h>
 
-#Project made on
+# Project made on
 Visual Studio 2017
