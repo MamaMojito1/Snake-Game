@@ -1,7 +1,7 @@
 # Snake Game made with raylib
 
 # Library used
-<raylib.h> \n
+<raylib.h>
 <raymath.h>
 <deque.h>
 
